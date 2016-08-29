@@ -27,6 +27,7 @@
 #ifndef Q3SCENE_H
 #define Q3SCENE_H
 
+#include <cstdio>
 #include "../common/q3Settings.h"
 #include "../common/q3Memory.h"
 #include "../dynamics/q3ContactManager.h"
